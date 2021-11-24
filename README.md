@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/66397af703c64d18a6b62cb977cc2d7f)](https://app.codacy.com/gh/tj-actions/semver-diff?utm_source=github.com&utm_medium=referral&utm_content=tj-actions/semver-diff&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/tj-actions/semver-diff/workflows/CI/badge.svg)](https://github.com/tj-actions/semver-diff/actions?query=workflow%3ACI)
 [![Update release version.](https://github.com/tj-actions/semver-diff/workflows/Update%20release%20version./badge.svg)](https://github.com/tj-actions/semver-diff/actions?query=workflow%3A%22Update+release+version.%22)
 [![Public workflows that use this action.](https://img.shields.io/endpoint?url=https%3A%2F%2Fapi-tj-actions1.vercel.app%2Fapi%2Fgithub-actions%2Fused-by%3Faction%3Dtj-actions%2Fsemver-diff%26badge%3Dtrue)](https://github.com/search?o=desc\&q=tj-actions+semver-diff+path%3A.github%2Fworkflows+language%3AYAML\&s=\&type=Code)
